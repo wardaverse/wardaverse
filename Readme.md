@@ -5,64 +5,83 @@
 ⚡ Product, Growth & Tech Builder  
 📍 Islamabad, Pakistan  
 
-Building **AI, GenAI, and data-driven systems** that translate complex ideas into scalable, real-world products with measurable impact.
+Building **agentic AI systems, GenAI applications, and data-driven products** that translate complex ideas into scalable, real-world impact.
+
+---
+
+## Focus
+
+→ Designing **agentic workflows using LangGraph & LangChain**  
+→ Building **end-to-end systems** from data pipelines → AI reasoning → user-facing apps  
+→ Applying **AI for climate intelligence, Geo-AI, and decision systems**
 
 ---
 
 ## Core Expertise
 
-### AI, GenAI & Data Systems
-- Designing and deploying **Generative AI applications and workflows**  
-- Building **end-to-end data pipelines** for structured and unstructured data  
-- Applying **machine learning models** for real-world decision systems  
-- Developing **data analytics and visualization solutions** for actionable insights  
+### AI, GenAI & Intelligent Systems
+- Designing and deploying **Generative AI and agentic workflows**  
+- Building **RAG pipelines, vector search, and LLM-based systems**  
+- Developing **AI reasoning and decision intelligence platforms**  
+- Applying **machine learning for real-world impact systems**
 
 ### Product & Engineering
 - Product strategy, system design, and scalable architecture  
-- Building **full-stack applications** with strong backend systems  
-- Designing **modular and maintainable systems**  
-- Rapid prototyping and iterative product development  
+- Building **full-stack applications with production-grade backends**  
+- Designing **modular, maintainable, and extensible systems**  
+- Rapid prototyping with a **product-first mindset**
 
 ### Climate & Geo-Tech
 - Environmental and climate data modeling  
-- Geo-AI and spatial data systems  
-- Data-driven approaches to sustainability challenges  
+- Geo-AI and spatial intelligence systems  
+- Data-driven approaches to sustainability and resilience  
 
 ---
 
 ## Selected Projects
 
-### 🔹 GenAI Content Engine  
-A system that generates high-quality, context-aware social media content using structured datasets and few-shot prompting.
+### Agentic AI Reasoning Platform  
+A structured AI system built using **LangGraph workflows** for multi-step reasoning and decision-making.
 
-### 🔹 Data Pipeline System
-A scalable data workflow for collecting, processing, and storing weather data.
+### GenAI Content Engine  
+A scalable content generation system leveraging **LLMs, structured prompting, and automation pipelines**.
 
-### 🔹 AI Reasoning Platform
-A structured AI system for intelligent workflows and decision-making.
+### Climate Data Pipeline System  
+An end-to-end pipeline for **collecting, processing, and analyzing environmental datasets**.
 
 ---
 
-
 ## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### High-Signal Tools
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+---
+
+### Systems & Stack
+
+**Languages**  
+Python • JavaScript • TypeScript  
+
+**AI & Data Systems**  
+Pandas • NumPy • Scikit-learn • Streamlit  
+RAG Pipelines • Vector Databases • LLM Workflows  
+
+**Backend & APIs**  
+FastAPI • Django • Node.js  
+
+**Frontend**  
+React • TailwindCSS  
+
+**Databases & Storage**  
+PostgreSQL • MongoDB • SQLite • Supabase  
+
+**DevOps & Platforms**  
+Docker • Git • Linux • Vercel  
 
 ---
 
@@ -73,3 +92,8 @@ A structured AI system for intelligent workflows and decision-making.
 ![GitHub Streak](https://streak-stats.demolab.com?user=wardaverse&theme=tokyonight)
 
 ---
+
+## Connect
+
+Building at the intersection of **AI, climate, and scalable systems**.  
+Open to collaborations in **Agentic AI, Climate Tech, and Geo-AI research**.
