@@ -1,23 +1,14 @@
 
 # Hi, I'm Warda Shafiq 👋
-
-🎓 MS Climate Change & Sustainable Development — **NUST**  
-🎓 BE Electrical Engineering — **NUST, CEME**  
-💻 Data Science · Product Analytics · AI Engineering  
-📍 Islamabad, Pakistan
+## Data Science · Product Analytics · AI Engineering  
 
 Building **data-driven products and intelligent AI systems** — from analytical insights and experimentation to agentic workflows, GenAI applications, and deployment.
 
----
-
 ## Focus Areas
-
 → **Data Science & Product Analytics:** SQL, Python, statistical analysis, A/B testing, funnels, and cohort analysis.  
 → **Generative AI & Agentic Systems:** LLMs, RAG, LangGraph, LangChain, and AI workflow orchestration.  
 → **AI Architecture & Deployment:** System design, API integration, Docker, CI/CD, and cloud deployment.  
 → **Product Intelligence:** Translating complex business problems into measurable insights and scalable solutions.
-
----
 
 ## Core Expertise
 
